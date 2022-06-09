@@ -23,10 +23,10 @@ export default class About extends Component {
               University of Florida. Currently learning new technologies and
               getting ideas to start new projects. Looking for opportunities to
               join current or new projects to gain experience as a Software
-              Engineer and improve my programing skills. I enjoy working with
-              new people and learning new skills along the way.
-              Skills/Interests: Java, C++, Python, SQL, HTML, CSS, JavaScript,
-              React, Machine Learning.
+              Engineer and improve my programing skills.
+              <br /> <br />I enjoy working with new people and learning new
+              skills along the way. Skills/Interests: Java, C++, Python, SQL,
+              HTML, CSS, JavaScript, React, Machine Learning.
             </div>
           </div>
         </div>
